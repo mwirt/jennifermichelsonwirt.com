@@ -774,3 +774,8 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+.fslogo-wrap {
+  text-align: center;
+  padding: 5px 0px;
+}
