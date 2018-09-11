@@ -25,10 +25,13 @@ description: I am a mother, a wife, a real estate expert, and so much more.
 navbar-links:
   About Me: "aboutme"
   Links:
-    - VCA Animal Hospital of Los Gatos: "http://pets.vcahospitals.com/free-first-exam/local‎"
-    - Ristorante Da Maria: "http://pizzadamaria.com"
+    - AAUW: "https://salary.aauw.org/about/#aboutAAUW"
+    - Camp Chef: "https://www.campchef.com"
     - Daydream Salon: "http://www.daydreamsalon.com"
-    - Prevention Magazine: "https://www.prevention.com/"
+    - Franklin Covey: "https://www.franklincovey.com"
+    - San Jose Jazz Festival: "https://summerfest.sanjosejazz.org/lineup"
+    - Value Corner Milk: "http://www.safeway.com/ShopStores/Brands/Our-Brands.page"
+    - Zen Business: "https://www.zenbusiness.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -138,7 +141,7 @@ timezone: "America/Los_Angeles"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 10
+paginate: 8
 
 kramdown:
   input: GFM
